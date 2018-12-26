@@ -5,7 +5,7 @@
 - PHP5.6
 
 ## Étapes
-1. Changement temporairement l'éditeur par défaut pour permettre l'implémentation des balises `<style>` et `<svg>` dans l'article.
+1. Changement temporaire de l'éditeur par défaut pour permettre l'implémentation des balises `<style>` et `<svg>` dans l'article.
     1. Aller dans le panneau d'administration 
         - http://VOTRE_SITE.com/administrator/
     2. Aller dans le panneau "Configuration Globales" (Site > Global Configuration)
