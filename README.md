@@ -1,5 +1,7 @@
 # Installation de la Carte Modema HTML5 dans un article Joomla 2.5.28
 
+![](tuto-imgs/resultat.png?raw=true "Resultat")
+
 ## Support
 - Joomla 2.5.28 (besoin d'essayer sur 2.5.7)
 - PHP5.6
