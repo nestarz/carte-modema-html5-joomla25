@@ -13,7 +13,7 @@
     3. Changer l'éditeur par défaut "Editor - TinyMCE" par "Editor - None"
     4. Sauvegarder et fermer
 
-![](https://media.giphy.com/media/LW4pysXefu4sTzhqOj/giphy.gif)
+![](tuto-imgs/hd-step1.gif?raw=true "Step 1")
 
 2. Modification de l'article contenant la carte MODEMA.
     1. Aller dans le Gestionnaire des articles (Content > Article Manager) 
@@ -24,16 +24,16 @@
     5. Sauvegarder et fermer
     6. Vérifier si la carte est fonctionnelle 
 
-![](https://media.giphy.com/media/wogfeli5a2WHmbQYLR/giphy.gif)
+![](tuto-imgs/hd-step2.gif?raw=true "Step 2")
 
 3. Rétablir l'éditeur par défaut
     1. Suivre l'étape 1. mais changer l'éditeur "Editor - None" par "Editor - TinyMCE" 
 
-## (OPTIONNEL) Reproductibilité
+## (DEV) Reproduction de l'installation via Docker
 ### Prérequis
 - docker, docker-compose
 ### Installation
-1. Lancer la commande `docker-compose up -d` à la racine du dossier.
+1. Lancer la commande `docker-compose up -d` dans le dossier `docker-joomla`.
 2. Sur votre navigateur, entrez l'url suivante: http://localhost:8080/
 3. Installer Joomla
     1. JOOMLA_DB_HOST: joomladb
