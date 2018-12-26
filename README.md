@@ -13,7 +13,7 @@
     3. Changer l'éditeur par défaut "Editor - TinyMCE" par "Editor - None"
     4. Sauvegarder et fermer
 
-![](tuto-imgs/Kapture 2018-12-26 at 23.34.27.gif)
+![](https://media.giphy.com/media/LW4pysXefu4sTzhqOj/giphy.gif)
 
 2. Modification de l'article contenant la carte MODEMA.
     1. Aller dans le Gestionnaire des articles (Content > Article Manager) 
@@ -24,7 +24,10 @@
     5. Sauvegarder et fermer
     6. Vérifier si la carte est fonctionnelle 
 
-![](tuto-imgs/Kapture 2018-12-26 at 23.40.12.gif)
+![](https://media.giphy.com/media/wogfeli5a2WHmbQYLR/giphy.gif)
+
+3. Rétablir l'éditeur par défaut
+    1. Suivre l'étape 1. mais changer l'éditeur "Editor - None" par "Editor - TinyMCE" 
 
 ## (OPTIONNEL) Reproductibilité
 ### Prérequis
